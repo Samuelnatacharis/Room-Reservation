@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376142845621",
+    "project_id": "binus-scape",
+    "storage_bucket": "binus-scape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376142845621:android:25ed7a9e4efc2584fc90fc",
+        "android_client_info": {
+          "package_name": "com.example.iterasi2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmyXXzmCXPrnSDpfrpN2uITYMeEMJCj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
